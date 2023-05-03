@@ -1,7 +1,7 @@
 # Horiseon-Website
 
 ## Description
-This Challenge was created for boot camp students to practice make accesibility aand readability changes to both the CSS and index HTML files in the challenge folder. It contains notes on HTML, CSS, Git, and JavaScript. It can teach aspiring web developers of all ages and skill ranges about the basics of coding as a web developer. This guide is a useful tool to look back through and search for important topics.
+This Challenge was created for boot camp students to practice in making websites for accesibile for users. 
 
 ## Installation
 N/A
